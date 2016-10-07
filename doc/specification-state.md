@@ -1,5 +1,6 @@
+## State representation of a specificatino
 
-Information about how the state represents a specification
+Information about how the state represents a specification.
 
 ```javascript
 export const sampleSpec = {
